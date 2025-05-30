@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function property() {
+export default function LiveWorkoutScreen() {
   return (
     <View>
-      <Text>property</Text>
+      <Text>LiveWorkoutScreen</Text>
     </View>
   )
 }

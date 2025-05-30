@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function PaymentScreen() {
+export default function ChatScreen() {
   return (
     <View>
-      <Text>Payment</Text>
+      <Text>ChatScreen</Text>
     </View>
   )
 }
